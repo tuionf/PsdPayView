@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\tuion\Downloads\SuperTextView-master\PsdPayView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2402181a3628c9a4867fb836b236ca95790b3404">
+        <dex dex="C:\Users\tuion\Downloads\SuperTextView-master\PsdPayView\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b0e7ab798535178e8b1bfb2fe16313e7c158226a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tuion\Downloads\SuperTextView-master\PsdPayView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\tuion\Downloads\SuperTextView-master\PsdPayView\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_be3acc7b64327076be009a0358a1a2acc61fb039\classes.dex" />
+    </item>
+
+</items>
